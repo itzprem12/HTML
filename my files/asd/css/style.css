@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Jacquard+12&family=Kalam:wght@300;400;700&display=swap');
+.format{
+    font-family:oblique small-caps 50px arial,serif;
+}
+.icon{
+    font-size: 50px;
+    color:black;
+}
+.icon2{
+    font-size: 50px;
+    color:black;
+}
+/* *{
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+h2{
+    color: blueviolet;
+}
+#portfolioHeading{
+    color: aqua;
+}
+.headingBgcolor{
+    background-color: aqua;
+}
+*{
+    padding: 2%;
+    margin: 2%;
+    box-sizing: content-box;
+} */

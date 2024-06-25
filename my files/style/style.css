@@ -1,0 +1,51 @@
+.con_1 {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(19, 15, 10);
+    padding: 90px;
+    border: 50px;
+    text-transform: capitalize;
+    text-align: end;
+    text-decoration: wavy;
+    text-shadow: 5px 5px 5px grey;
+    background-color: bisque;
+}
+
+.vis_1 {
+    font-size: medium;
+    padding: 90px;
+    border: 50px;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: wavy;
+    text-shadow: 3px 3px 10px #0360eb;
+    margin-left: 20px;
+    background-color: #222831;
+    color: ;
+    background-image: url(https://images.pexels.com/photos/23294334/pexels-photo-23294334/free-photo-of-a-woman-taking-a-picture-of-a-tree.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load);
+    background-size: cover;
+    border-style:solid;
+    color: #DAC0A3;
+}
+
+h3 {
+    color: #543310;
+    background-color: grey;
+}
+
+.para2 {
+    color: #E3FDFD;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+.head2 {
+    text-transform: uppercase;
+}
+
+.head22{
+    color: #E3FDFD;
+}

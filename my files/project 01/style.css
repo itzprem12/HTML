@@ -1,0 +1,27 @@
+.container_1 {
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+    /* background-color: bisque; */
+    background-image: linear-gradient(#254336, #6B8A7A, #B7B597, #DAD3BE);
+}
+
+.container_2 {
+    height: 400px;
+    width: 400px;
+    border-style:solid;
+    border-color: black;
+    border-radius: 40px;
+    border-width: 15px;
+    /* background-color: bisque; */
+    /* background-image:radial-gradient(circle,#EEE2DE,#EA906C,#B31312,#B2A4CE) */
+    background-image: conic-gradient(#2B2A4C, #B31312, #EA906C, #EEE2DE);
+}
+.anch{
+    background-color: #2B2A4C;
+}
+.flex_con{
+    display: flex ;
+    padding: 20px;
+ 
+}

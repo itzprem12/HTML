@@ -1,0 +1,27 @@
+.btn_1 {
+    background-image: radial-gradient(green, green);
+    text-decoration: none;
+    border: solid;
+    border-radius: 25px;
+    border-color: black;
+    border-width: 4px;
+}
+
+.zy {
+    text-decoration: none;
+    color: black;
+}
+
+.con {
+    text-shadow: 4px 3px 3px grey;
+
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.an {
+    text-decoration: none;
+}

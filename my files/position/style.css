@@ -1,0 +1,40 @@
+.one {
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    position: relative;
+
+}
+
+.two {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: relative;
+    z-index: 2;
+    top: 60px;
+    left: 30px;
+}
+
+.three {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+}
+
+/* div{
+    border: 10px solid ;
+    height: 500px;
+    width: 400px;
+    margin: 50px;
+    position: relative;
+} */
+/* h1{
+    position: absolute;
+    bottom: 50px;
+} */
+h1 {
+    position: sticky;
+    top: 100px;
+}
